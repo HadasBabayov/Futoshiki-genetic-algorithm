@@ -1,6 +1,11 @@
 # Futoshiki-genetic-algorithm
 
-To run the project - ?????????? <br/>
+To run the project - run in cmd the command: <br/>
+```
+futoshiki.exe input.txt
+ ```
+ Make sure they are both in the same folder.<br/> 
+ 
 You can see the code in futoshiki.py.<br/>
 
 In input_files folder you have configuration files.<br/>
